@@ -1,0 +1,16 @@
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\bin\Debug\net8.0-windows\lab4ATTMMT11.exe
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\bin\Debug\net8.0-windows\lab4ATTMMT11.deps.json
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\bin\Debug\net8.0-windows\lab4ATTMMT11.runtimeconfig.json
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\bin\Debug\net8.0-windows\lab4ATTMMT11.dll
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\bin\Debug\net8.0-windows\lab4ATTMMT11.pdb
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\lab4ATTMMT11.Form1.resources
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\lab4ATTMMT11.csproj.GenerateResource.cache
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\lab4ATTMMT11.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\lab4ATTMMT11.AssemblyInfoInputs.cache
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\lab4ATTMMT11.AssemblyInfo.cs
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\lab4ATTMMT11.csproj.CoreCompileInputs.cache
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\lab4ATTMMT11.dll
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\refint\lab4ATTMMT11.dll
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\lab4ATTMMT11.pdb
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\lab4ATTMMT11.genruntimeconfig.cache
+D:\OneDrive\Học kì 5\Thực hành an toàn\lab4ATTMMT11\lab4ATTMMT11\obj\Debug\net8.0-windows\ref\lab4ATTMMT11.dll
